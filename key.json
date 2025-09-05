@@ -1,2 +1,8 @@
-
-vuinghibanoi
+{
+  "success": true,
+  "msg": "Key hợp lệ",
+  "keys": [
+    "vuivaythoi",
+    "changheas"
+  ]
+}
